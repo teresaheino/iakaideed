@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahketosoif.src-ed.co.uk/sitemap.xml
